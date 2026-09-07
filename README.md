@@ -27,7 +27,6 @@ The final visualizations and interactive dashboard were created in *Tableau*.
 ## Files
 
 * Cleaned_Dataset.xlsx – Cleaned dataset
-* Cleaned_Dataset.csv – CSV version of the cleaned dataset
 * Analysis_Result.xlsx – Python analysis results
 * Comparative_Sales_Dashboard.twbx – Tableau workbook
 * README.md – Project documentation
